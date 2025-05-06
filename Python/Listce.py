@@ -1,4 +1,4 @@
-# lists in python 
+# # lists in python 
 
 # indexing in python 
 # index starts from zero 
@@ -34,3 +34,41 @@ print(list);
 # if i have to add more than one element in the list?
 y = list.append(["john","doe"]);
 print(y);
+
+
+# use extends to add elements in the list 
+
+L = ["sumit_python",1.0];
+L.extend(["pop",10]);
+print(L);
+
+
+# yeh nested list bana dega.
+L.append(["pop",10]);
+print(L)
+
+
+
+
+# changing the element based on the index 
+
+A = ["sumit",10,1.2]
+print("before change",A);
+A[0] = "kumar";
+print("after change",A);
+
+# Deleting element based on their index 
+
+print("before deleting the element",A);
+del(A[0])
+print("after deletion of an element",A);
+
+
+# most important -> copy and clone in the list 
+
+
+
+# follow hitesh sir lecture 
+
+
+
