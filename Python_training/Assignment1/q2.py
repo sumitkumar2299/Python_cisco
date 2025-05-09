@@ -7,5 +7,4 @@ c = a
 a = b
 b = c 
 
-
 print('swapped number is',a,b);

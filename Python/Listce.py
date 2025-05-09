@@ -1,7 +1,7 @@
-# # lists in python 
+# # # lists in python 
 
-# indexing in python 
-# index starts from zero 
+# # indexing in python 
+# # index starts from zero 
 
 List= ["sumit",7.0,1992]
 print(List[0]);
@@ -71,4 +71,26 @@ print("after deletion of an element",A);
 # follow hitesh sir lecture 
 
 
+
+
+# list practice 
+
+fruits = ["apple","banana","orange"]
+fruits.append("mango")
+print(fruits);
+
+
+my_list = [1,2,3,4,5]
+new_list = my_list.copy()
+print(new_list)
+
+
+my_list = [1,2,3,4,5,6,6,7,6];
+count = my_list.count(6)
+print(count);
+
+
+my_list = [10,20,30,40,50]
+del my_list[2];
+print(my_list);
 
