@@ -15,7 +15,7 @@ print(y);
 
 
 # list comprehension 
-# old list se new list bana sakte hai 
+
 
 x = [1,2,3,4]
 y = []
