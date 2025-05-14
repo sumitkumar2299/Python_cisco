@@ -1,5 +1,5 @@
 dict = {}
 
 employees = ['ram','amit']
-defaults:{"designation":"developer","salary":8000}
+# defaults:{"designation":"developer","salary":8000}
 
