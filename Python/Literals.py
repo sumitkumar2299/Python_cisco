@@ -13,6 +13,7 @@ print(0x123)
 # floats -> decimal 
 
 print(0.0000000000000000000001)
+print(0.1111223545)
 
 
 # strings 
