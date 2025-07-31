@@ -133,3 +133,13 @@ print(show(3,5))
 
 
 # database -> mysql
+
+
+
+
+
+
+sum = 0
+for i in range(1,5):
+    sum = sum+i
+    print(sum)
